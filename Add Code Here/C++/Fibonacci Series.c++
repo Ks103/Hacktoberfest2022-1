@@ -2,8 +2,6 @@
 // Aim: C++ Program to print Fibonacci Series using Class.
 // Date: 9/10/22
 
-// start coding
-
 
 #include <bits/stdc++.h>
 using namespace std;
